@@ -1,6 +1,7 @@
-### Hi there 👋
+![Alt text](https://www.gnu.org/graphics/fs-gang.png)
 
 <!--
+### Hi there 👋
 **rssrrr/rssrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
