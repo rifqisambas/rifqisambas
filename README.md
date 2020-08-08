@@ -1,5 +1,10 @@
-![Alt text](https://www.gnu.org/graphics/fs-gang.png)
-![Sammans's github stats](https://github-readme-stats.sera5-dev.vercel.app/api?username=rssrrr&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
+<p align="center">
+   <img src="https://www.gnu.org/graphics/fs-gang.png" width="">
+   <br/><br/>
+</p>
+<p align="center">
+   <img src="https://github-readme-stats.sera5-dev.vercel.app/api?username=rssrrr&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000" width="">
+</p>
 <!--
 ### Hi there 👋
 **rssrrr/rssrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
