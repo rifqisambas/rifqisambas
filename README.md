@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,5 +56,5 @@ Vim script               3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2022 01:22:44 UTC
+ Last Updated on 15/07/2022 12:29:46 UTC
 <!--END_SECTION:waka-->
