@@ -26,13 +26,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -48,5 +48,5 @@ TypeScript               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2025 12:37:48 UTC
+ Last Updated on 27/12/2025 01:21:11 UTC
 <!--END_SECTION:waka-->
