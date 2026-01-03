@@ -1,7 +1,5 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C498%20hrs%204%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 52.4 kB Used in GitHub's Storage 
@@ -12,29 +10,6 @@
  > 
 > 🔑 109 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1545 commits        ██████████░░░░░░░░░░░░░░░   40.02 % 
-🌆 Daytime                1835 commits        ████████████░░░░░░░░░░░░░   47.53 % 
-🌃 Evening                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -48,5 +23,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 12:37:36 UTC
+ Last Updated on 03/01/2026 01:20:58 UTC
 <!--END_SECTION:waka-->
