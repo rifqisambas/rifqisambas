@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C499%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C499%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,5 +48,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 12:42:12 UTC
+ Last Updated on 06/01/2026 01:25:03 UTC
 <!--END_SECTION:waka-->
