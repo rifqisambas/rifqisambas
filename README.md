@@ -26,18 +26,18 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
-Other                    3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-JavaScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-SQL                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Vue                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+PHP                      5 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
+JavaScript               3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+SQL                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Vue                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 58 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  17 hrs 39 mins      █████████████████████████   98.22 % 
-Linux                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Android                  13 hrs 42 mins      ████████████████████████░   97.72 % 
+Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 
 **I Mostly Code in Go** 
@@ -53,5 +53,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 13:30:06 UTC
+ Last Updated on 25/07/2026 02:17:35 UTC
 <!--END_SECTION:waka-->
