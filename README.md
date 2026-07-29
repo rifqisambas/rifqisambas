@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C609%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C610%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20mins-blue?style=flat)
 
@@ -28,17 +28,18 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Bash                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Lua                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Vue                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+PHP                      1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   31.80 % 
+JavaScript               1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Lua                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Vue                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 5 mins        █████████████████████████   100.00 % 
+Neovim                   5 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  9 hrs 5 mins        █████████████████████████   100.00 % 
+Android                  4 hrs 44 mins       ██████████████████████░░░   88.14 % 
+Linux                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,5 +61,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 13:58:05 UTC
+ Last Updated on 29/07/2026 02:13:39 UTC
 <!--END_SECTION:waka-->
