@@ -1,5 +1,9 @@
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C630%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 52.5 kB Used in GitHub's Storage 
@@ -10,6 +14,40 @@
  > 
 > 🔑 109 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1228 commits        ███████████░░░░░░░░░░░░░░   42.82 % 
+🌆 Daytime                1571 commits        ██████████████░░░░░░░░░░░   54.78 % 
+🌃 Evening                40 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               12 hrs 25 mins      ██████████████████░░░░░░░   71.42 % 
+PHP                      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+🔥 Editors: 
+Neovim                   17 hrs 23 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Android                  17 hrs 16 mins      █████████████████████████   99.37 % 
+Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -23,5 +61,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:30:14 UTC
+ Last Updated on 07/08/2026 12:56:12 UTC
 <!--END_SECTION:waka-->
