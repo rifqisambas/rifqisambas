@@ -28,17 +28,17 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               11 hrs 12 mins      ████████████████████░░░░░   80.80 % 
-PHP                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Vue                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JavaScript               7 hrs 20 mins       ███████████████████░░░░░░   75.59 % 
+PHP                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Vue                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 52 mins      █████████████████████████   100.00 % 
+Neovim                   9 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Android                  13 hrs 52 mins      █████████████████████████   100.00 % 
+Android                  9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,5 +60,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 12:41:35 UTC
+ Last Updated on 26/08/2026 01:04:54 UTC
 <!--END_SECTION:waka-->
